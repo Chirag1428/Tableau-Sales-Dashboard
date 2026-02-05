@@ -30,4 +30,4 @@
 
 3. Creating time-series trend analysis for business monitoring
 
-4. Building user-friendly interactive dashboards for non-technical users
+4. Building user-friendly interactive dashboards with dynamic filters for non-technical users
