@@ -20,3 +20,14 @@
     3. Trend lines for time-based monitoring
     
 -> Overall, the solution reduced manual Excel reporting and enabled faster, data-driven decisions in sales planning, stock management, and profit optimization.
+
+
+🧠 **Key Learnings from This Project :**
+
+1. Designing Tableau dashboards with KPIs, legends, and comparison charts
+
+2. Implementing calculated measures for Sales, Profit, and Quantity
+
+3. Creating time-series trend analysis for business monitoring
+
+4. Building user-friendly interactive dashboards for non-technical users
